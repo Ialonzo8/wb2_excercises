@@ -1,1 +1,1 @@
-# wb2_excercises
+# wb2_exercises
